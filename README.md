@@ -3,7 +3,7 @@ Formação HTML Web Developer - Desafio 01 - Criar pagina com TAG utilizada dura
 
 _______________________________________________________________________________________________________________________
 
-Projeto de aprendizagem Formação HTML Web Developer
+Projeto de aprendizagem - Formação HTML Web Developer
 
 Autor: Washington Pires
 
